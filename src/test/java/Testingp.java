@@ -9,7 +9,7 @@ public class Testingp {
 @Test
     void test2()
     {
-        System.out.println("I am getting better day by day");
+        System.out.println("I ammmmm getting better day by day");
 
     }
 @Test
